@@ -40,10 +40,10 @@ dynamic getFirstElement(List<dynamic> list) {
 
 void main() {
   // Testing the functions
-  print('Task 1: ${addTwo(10, 5)}');  // Output: Task 1: 15
-  print('Task 2: ${subtractTwo(10, 5)}');  // Output: Task 2: 5
-  print('Task 3: ${multiplyTwo(10, 5)}');  // Output: Task 3: 50
-  print('Task 4: ${divideTwo(10, 5)}');  // Output: Task 4: 2.0
-  print('Task 5: ${stringLength("Hello")}');  // Output: Task 5: 5
-  print('Task 6: ${getFirstElement([1, 2, 3])}');  // Output: Task 6: 1
+  print('Task 1: ${addTwo(10, 5)}'); 
+  print('Task 2: ${subtractTwo(10, 5)}'); 
+  print('Task 3: ${multiplyTwo(10, 5)}'); 
+  print('Task 4: ${divideTwo(10, 5)}');  
+  print('Task 5: ${stringLength("Hello")}');  
+  print('Task 6: ${getFirstElement([1, 2, 3])}'); 
 }
